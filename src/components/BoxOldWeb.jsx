@@ -1,5 +1,3 @@
-import { FatTiktok } from "react-icons/fa"
-
 const BoxOldWeb = () => {
 	return (
 		<div id="BoxOldWeb">
