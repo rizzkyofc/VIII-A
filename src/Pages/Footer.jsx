@@ -26,7 +26,7 @@ const Footer = () => {
 								</li>
 								<li>
 									<a href="#" class="hover:underline">
-										8A
+										
 									</a>
 								</li>
 							</ul>
@@ -40,7 +40,7 @@ const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<a href="#" class="hover:underline">
+									<a href="https://youtube.com/@smpn_6_subang?si=yJ4_ZAeLWtMZsp2q" class="hover:underline">
 										Youtube
 									</a>
 								</li>
