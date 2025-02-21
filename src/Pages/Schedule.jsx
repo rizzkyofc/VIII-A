@@ -9,7 +9,7 @@ const Kamis = React.lazy(() => import("../components/Mapel/Kamis"))
 const Jumat = React.lazy(() => import("../components/Mapel/Jumat"))
 
 const Schedule = () => {
-    const daysOfWeek = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+    const daysOfWeek = ["Minggu", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu"]
     const currentDay = daysOfWeek[new Date().getDay()]
 
     useEffect(() => {
@@ -61,7 +61,7 @@ const Schedule = () => {
                                 <TodayComponent />
                             </React.Suspense>
                         ) : (
-                            <p className="opacity-50">Coming Soon</p>
+                            <p className="opacity-50">Libur</p>
                         )}
                     </div>
                 </div>
