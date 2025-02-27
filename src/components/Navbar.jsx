@@ -56,12 +56,12 @@ const Navbar = () => {
 				</div>
 				<ul className="mt-2 flex gap-5">
 					<li className="mb-4">
-						<a href="#" className="text-white opacity-80 text-[1rem] font-semibold">
+						<a href="https://viii-a-hebatt.vercel.app/" className="text-white opacity-80 text-[1rem] font-semibold">
 							Home
 						</a>
 					</li>
 					<li className="mb-4">
-						<a href="#Gallery" className="text-white opacity-80 text-[1rem] font-semibold">
+						<a href="https://drive.google.com/drive/folders/1P6tE4wGOdvSHpvYlgrgFEs5eW5jb3Drw" className="text-white opacity-80 text-[1rem] font-semibold">
 							Gallery
 						</a>
 					</li>
