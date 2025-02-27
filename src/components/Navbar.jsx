@@ -36,8 +36,13 @@ const Navbar = () => {
 					id="IsiNavbar">
 					<ul className="mt-8">
 						<li className="mb-4">
-							<a href="#" className="text-white opacity-80 text-lg font-bold">
+							<a href="https://viii-a-hebatt.vercel.app" className="text-white opacity-80 text-lg font-bold">
 								Home
+							</a>
+						</li>
+						<li className="mb-4">
+							<a href="https://drive.google.com/drive/folders/1P6tE4wGOdvSHpvYlgrgFEs5eW5jb3Drw" className="text-white opacity-80 text-lg font-bold">
+								Gallery
 							</a>
 						</li>
 						<li>
