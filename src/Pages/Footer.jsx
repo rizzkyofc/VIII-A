@@ -21,7 +21,7 @@ const Footer = () => {
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
 									<a href="https://www.youtube.com/channel/UChgP9Zncwudz6cwCZeTCqaQ" class="hover:underline">
-										RIZKI K
+										RIZKI [ RKS ]
 									</a>
 								</li>
 								<li>
