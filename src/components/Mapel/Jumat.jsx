@@ -12,7 +12,7 @@ const Jumat = () => {
 				className=" flex justify-between py-[0.50rem] w-72 px-3 opacity-60"
 				data-aos="fade-up"
 				data-aos-duration="600">
-				<div className="w-[50%] text-base  font-medium">Seni Budaya</div>
+				<div className="w-[50%] text-base  font-medium">Seni Budaya Dan Keterampilan</div>
 				<div className="flex justify-center items-center text-sm">Sampai Pulang😋</div>
 			</div>
 		</>
